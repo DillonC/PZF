@@ -1,0 +1,22 @@
+//3D work will have references from the 2D Artist drawings.
+2D Artist
+*Plasma Gun
+-Has Plasma tank on top
+-Uses a button and not a trigger
+-Curvy trigger
+3D Artist
+*Girl/Boy Model
+-Looks young, Tall
+-Long Hair
+-Rigged to hold weapon
+*Weapon Models
+Programmers
+*
+-
+Level Designer
+*
+-
+Music/Sound aritist
+*In-game music
+-eerie and scary
+-Different Tracks

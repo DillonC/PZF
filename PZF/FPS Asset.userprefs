@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Custom\Custom\Scripts\Guns\Pistol.js">
+    <Files>
+      <File FileName="Assets\Custom\Custom\Scripts\Guns\Pistol.js" Line="53" Column="33" />
+      <File FileName="Assets\Custom\Custom\Scripts\HideObject.js" Line="2" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
